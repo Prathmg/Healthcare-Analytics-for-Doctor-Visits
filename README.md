@@ -209,7 +209,12 @@ The project reports:
 - Random Forest accuracy and classification metrics
 - Confusion matrix
 - Feature importance
-
+- <img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/c3bfd064-25f6-4f97-ba48-fd3240a8f6ed" />
+- <img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/6fc40e5e-0314-408c-a74c-5a5f15d3c7ff" />
+- <img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/27ba5472-c328-4525-9727-59d0bb2f100a" />
+- <img width="1920" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/f188c42e-a34e-4319-91ad-278ca759776d" />
+- <img width="1920" height="1080" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/3186a50a-4837-421b-b895-58dc9774db3e" />
+<img width="1920" height="1080" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/71f468ac-54e7-43d1-ab13-d27c9cbb0226" />
 > Results are dataset-specific and should be interpreted within the limitations of the available data.
 
 ---
